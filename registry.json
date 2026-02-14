@@ -1,0 +1,47 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry.json",
+  "name": "hospital-ui",
+  "homepage": "",
+  "items": [
+    {
+      "name": "patient-card",
+      "type": "registry:component",
+      "files": []
+    },
+    {
+      "name": "appointment-schedule",
+      "type": "registry:block",
+      "files": []
+    },
+    {
+      "name": "medication-list",
+      "type": "registry:component",
+      "files": []
+    },
+    {
+      "name": "doctor-profile",
+      "type": "registry:component",
+      "files": []
+    },
+    {
+      "name": "emergency-contact-form",
+      "type": "registry:ui",
+      "files": []
+    },
+    {
+      "name": "hospital-locator-map",
+      "type": "registry:component",
+      "files": []
+    },
+    {
+      "name": "patient-history-timeline",
+      "type": "registry:block",
+      "files": []
+    },
+    {
+      "name": "use-patient-data",
+      "type": "registry:hook",
+      "files": []
+    }
+  ]
+}
